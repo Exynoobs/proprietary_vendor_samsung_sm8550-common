@@ -141,8 +141,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/sm8550-common/proprietary/vendor/etc/secnvm/k250a_47000304_c.img:$(TARGET_COPY_OUT_VENDOR)/etc/secnvm/k250a_47000304_c.img \
     vendor/samsung/sm8550-common/proprietary/vendor/etc/secnvm/k250a_47000306_1.img:$(TARGET_COPY_OUT_VENDOR)/etc/secnvm/k250a_47000306_1.img \
     vendor/samsung/sm8550-common/proprietary/vendor/etc/sensors/config/akmlib.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/akmlib.json \
-    vendor/samsung/sm8550-common/proprietary/vendor/etc/sensors/config/kailua_ak991x_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/kailua_ak991x_0.json \
-    vendor/samsung/sm8550-common/proprietary/vendor/etc/sensors/config/kailua_default_sensors.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/kailua_default_sensors.json \
     vendor/samsung/sm8550-common/proprietary/vendor/etc/sensors/config/kailua_dynamic_sensors_template.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/kailua_dynamic_sensors_template.json \
     vendor/samsung/sm8550-common/proprietary/vendor/etc/sensors/config/kailua_iot_hdk_dae.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/kailua_iot_hdk_dae.json \
     vendor/samsung/sm8550-common/proprietary/vendor/etc/sensors/config/kailua_power_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/kailua_power_0.json \
@@ -158,7 +156,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/sm8550-common/proprietary/vendor/etc/sensors/config/sns_flip_state.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_flip_state.json \
     vendor/samsung/sm8550-common/proprietary/vendor/etc/sensors/config/sns_fmv.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_fmv.json \
     vendor/samsung/sm8550-common/proprietary/vendor/etc/sensors/config/sns_fmv_legacy.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_fmv_legacy.json \
-    vendor/samsung/sm8550-common/proprietary/vendor/etc/sensors/config/sns_gyro_cal.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_gyro_cal.json \
     vendor/samsung/sm8550-common/proprietary/vendor/etc/sensors/config/sns_mag_cal.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_mag_cal.json \
     vendor/samsung/sm8550-common/proprietary/vendor/etc/sensors/config/sns_mag_cal_legacy.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_mag_cal_legacy.json \
     vendor/samsung/sm8550-common/proprietary/vendor/etc/sensors/config/sns_offbody_detect_phone.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_offbody_detect_phone.json \
