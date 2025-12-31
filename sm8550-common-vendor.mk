@@ -556,7 +556,6 @@ PRODUCT_PACKAGES += \
     libqdi \
     libqdp \
     libqdpr \
-    libqfp_sensortest \
     libqisl \
     libqll \
     libqll10 \
@@ -622,8 +621,6 @@ PRODUCT_PACKAGES += \
     libsensorndkbridge \
     libsensorslog \
     libsfeShiftExtrapolation \
-    libsfp_sensor \
-    libsfp_teegw \
     libshctrl \
     libshotsuggestion \
     libshotsuggestion_engines \
