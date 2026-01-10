@@ -4951,7 +4951,7 @@ cc_prebuilt_library_shared {
                 "liblog",
                 "libbinder",
                 "libdrm",
-                "libtinyxml2",
+                "libtinyxml2_1",
                 "libdisplaydebug",
                 "libhidlbase",
                 "android.frameworks.sensorservice@1.0",
@@ -13115,7 +13115,7 @@ cc_prebuilt_library_shared {
                 "libdisplaydebug",
                 "libsdm-color",
                 "libbinder",
-                "libtinyxml2",
+                "libtinyxml2_1",
                 "libsdmutils",
                 "libdrm",
                 "libdigital-dimming",
@@ -18061,7 +18061,7 @@ cc_prebuilt_library_shared {
 }
 
 prebuilt_rfsa {
-    name: "bm3a68v08s11n29",
+    name: "vendor_lib_rfsa_adsp_bm3a68v08s11n29_bin",
     filename: "bm3a68v08s11n29.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a68v08s11n29.bin",
@@ -18070,7 +18070,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a68v08s11n30",
+    name: "vendor_lib_rfsa_adsp_bm3a68v08s11n30_bin",
     filename: "bm3a68v08s11n30.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a68v08s11n30.bin",
@@ -18079,7 +18079,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a68v08s11n35",
+    name: "vendor_lib_rfsa_adsp_bm3a68v08s11n35_bin",
     filename: "bm3a68v08s11n35.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a68v08s11n35.bin",
@@ -18088,7 +18088,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a68v08s11n36",
+    name: "vendor_lib_rfsa_adsp_bm3a68v08s11n36_bin",
     filename: "bm3a68v08s11n36.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a68v08s11n36.bin",
@@ -18097,7 +18097,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a68v08s11n37",
+    name: "vendor_lib_rfsa_adsp_bm3a68v08s11n37_bin",
     filename: "bm3a68v08s11n37.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a68v08s11n37.bin",
@@ -18106,7 +18106,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a68v08s11n38",
+    name: "vendor_lib_rfsa_adsp_bm3a68v08s11n38_bin",
     filename: "bm3a68v08s11n38.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a68v08s11n38.bin",
@@ -18115,7 +18115,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a68v08s11n39",
+    name: "vendor_lib_rfsa_adsp_bm3a68v08s11n39_bin",
     filename: "bm3a68v08s11n39.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a68v08s11n39.bin",
@@ -18124,7 +18124,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a68v08s11n40",
+    name: "vendor_lib_rfsa_adsp_bm3a68v08s11n40_bin",
     filename: "bm3a68v08s11n40.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a68v08s11n40.bin",
@@ -18133,7 +18133,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a68v08s11n46",
+    name: "vendor_lib_rfsa_adsp_bm3a68v08s11n46_bin",
     filename: "bm3a68v08s11n46.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a68v08s11n46.bin",
@@ -18142,7 +18142,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a68v08s11n47",
+    name: "vendor_lib_rfsa_adsp_bm3a68v08s11n47_bin",
     filename: "bm3a68v08s11n47.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a68v08s11n47.bin",
@@ -18151,7 +18151,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a68v08s11n48",
+    name: "vendor_lib_rfsa_adsp_bm3a68v08s11n48_bin",
     filename: "bm3a68v08s11n48.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a68v08s11n48.bin",
@@ -18160,7 +18160,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a68v08s11n49",
+    name: "vendor_lib_rfsa_adsp_bm3a68v08s11n49_bin",
     filename: "bm3a68v08s11n49.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a68v08s11n49.bin",
@@ -18169,7 +18169,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a68v08s11n52",
+    name: "vendor_lib_rfsa_adsp_bm3a68v08s11n52_bin",
     filename: "bm3a68v08s11n52.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a68v08s11n52.bin",
@@ -18178,7 +18178,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a68v08s11n53",
+    name: "vendor_lib_rfsa_adsp_bm3a68v08s11n53_bin",
     filename: "bm3a68v08s11n53.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a68v08s11n53.bin",
@@ -18187,7 +18187,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n02",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n02_bin",
     filename: "bm3a73v08s11n02.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n02.bin",
@@ -18196,7 +18196,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n03",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n03_bin",
     filename: "bm3a73v08s11n03.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n03.bin",
@@ -18205,7 +18205,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n04",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n04_bin",
     filename: "bm3a73v08s11n04.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n04.bin",
@@ -18214,7 +18214,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n06",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n06_bin",
     filename: "bm3a73v08s11n06.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n06.bin",
@@ -18223,7 +18223,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n07",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n07_bin",
     filename: "bm3a73v08s11n07.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n07.bin",
@@ -18232,7 +18232,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n08",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n08_bin",
     filename: "bm3a73v08s11n08.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n08.bin",
@@ -18241,7 +18241,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n09",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n09_bin",
     filename: "bm3a73v08s11n09.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n09.bin",
@@ -18250,7 +18250,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n12",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n12_bin",
     filename: "bm3a73v08s11n12.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n12.bin",
@@ -18259,7 +18259,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n13",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n13_bin",
     filename: "bm3a73v08s11n13.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n13.bin",
@@ -18268,7 +18268,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n14",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n14_bin",
     filename: "bm3a73v08s11n14.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n14.bin",
@@ -18277,7 +18277,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n15",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n15_bin",
     filename: "bm3a73v08s11n15.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n15.bin",
@@ -18286,7 +18286,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n16",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n16_bin",
     filename: "bm3a73v08s11n16.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n16.bin",
@@ -18295,7 +18295,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n17",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n17_bin",
     filename: "bm3a73v08s11n17.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n17.bin",
@@ -18304,7 +18304,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n18",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n18_bin",
     filename: "bm3a73v08s11n18.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n18.bin",
@@ -18313,7 +18313,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n19",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n19_bin",
     filename: "bm3a73v08s11n19.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n19.bin",
@@ -18322,7 +18322,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n20",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n20_bin",
     filename: "bm3a73v08s11n20.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n20.bin",
@@ -18331,7 +18331,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n21",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n21_bin",
     filename: "bm3a73v08s11n21.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n21.bin",
@@ -18340,7 +18340,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n22",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n22_bin",
     filename: "bm3a73v08s11n22.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n22.bin",
@@ -18349,7 +18349,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n23",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n23_bin",
     filename: "bm3a73v08s11n23.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n23.bin",
@@ -18358,7 +18358,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n24",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n24_bin",
     filename: "bm3a73v08s11n24.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n24.bin",
@@ -18367,7 +18367,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n25",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n25_bin",
     filename: "bm3a73v08s11n25.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n25.bin",
@@ -18376,7 +18376,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n26",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n26_bin",
     filename: "bm3a73v08s11n26.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n26.bin",
@@ -18385,7 +18385,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n27",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n27_bin",
     filename: "bm3a73v08s11n27.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n27.bin",
@@ -18394,7 +18394,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n28",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n28_bin",
     filename: "bm3a73v08s11n28.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n28.bin",
@@ -18403,7 +18403,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n41",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n41_bin",
     filename: "bm3a73v08s11n41.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n41.bin",
@@ -18412,7 +18412,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n42",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n42_bin",
     filename: "bm3a73v08s11n42.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n42.bin",
@@ -18421,7 +18421,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n43",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n43_bin",
     filename: "bm3a73v08s11n43.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n43.bin",
@@ -18430,7 +18430,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n44",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n44_bin",
     filename: "bm3a73v08s11n44.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n44.bin",
@@ -18439,7 +18439,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n45",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n45_bin",
     filename: "bm3a73v08s11n45.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n45.bin",
@@ -18448,7 +18448,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n50",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n50_bin",
     filename: "bm3a73v08s11n50.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n50.bin",
@@ -18457,7 +18457,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "bm3a73v08s11n51",
+    name: "vendor_lib_rfsa_adsp_bm3a73v08s11n51_bin",
     filename: "bm3a73v08s11n51.bin",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/bm3a73v08s11n51.bin",
@@ -18466,7 +18466,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libQ6MSFR_manager_skel",
+    name: "vendor_lib_rfsa_adsp_libQ6MSFR_manager_skel_so",
     filename: "libQ6MSFR_manager_skel.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libQ6MSFR_manager_skel.so",
@@ -18475,7 +18475,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libSnpeHtpV73Skel",
+    name: "vendor_lib_rfsa_adsp_libSnpeHtpV73Skel_so",
     filename: "libSnpeHtpV73Skel.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libSnpeHtpV73Skel.so",
@@ -18484,7 +18484,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libadsp_jpege_skel",
+    name: "vendor_lib_rfsa_adsp_libadsp_jpege_skel_so",
     filename: "libadsp_jpege_skel.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libadsp_jpege_skel.so",
@@ -18493,7 +18493,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libapn_dsp_skel",
+    name: "vendor_lib_rfsa_adsp_libapn_dsp_skel_so",
     filename: "libapn_dsp_skel.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libapn_dsp_skel.so",
@@ -18502,7 +18502,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libbitml_nsp_skel",
+    name: "vendor_lib_rfsa_adsp_libbitml_nsp_skel_so",
     filename: "libbitml_nsp_skel.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libbitml_nsp_skel.so",
@@ -18511,7 +18511,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libbitml_nsp_v2_skel",
+    name: "vendor_lib_rfsa_adsp_libbitml_nsp_v2_skel_so",
     filename: "libbitml_nsp_v2_skel.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libbitml_nsp_v2_skel.so",
@@ -18520,7 +18520,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libdspCV_skel",
+    name: "vendor_lib_rfsa_adsp_libdspCV_skel_so",
     filename: "libdspCV_skel.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libdspCV_skel.so",
@@ -18529,7 +18529,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libdsp_streamer_binning",
+    name: "vendor_lib_rfsa_adsp_libdsp_streamer_binning_so",
     filename: "libdsp_streamer_binning.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libdsp_streamer_binning.so",
@@ -18538,7 +18538,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libdsphist_qc_skel",
+    name: "vendor_lib_rfsa_adsp_libdsphist_qc_skel_so",
     filename: "libdsphist_qc_skel.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libdsphist_qc_skel.so",
@@ -18547,7 +18547,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libdspmc_qc_skel",
+    name: "vendor_lib_rfsa_adsp_libdspmc_qc_skel_so",
     filename: "libdspmc_qc_skel.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libdspmc_qc_skel.so",
@@ -18556,7 +18556,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libevadsp_3_0",
+    name: "vendor_lib_rfsa_adsp_libevadsp_3_0_so",
     filename: "libevadsp_3_0.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libevadsp_3_0.so",
@@ -18565,7 +18565,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libfastcvadsp",
+    name: "vendor_lib_rfsa_adsp_libfastcvadsp_so",
     filename: "libfastcvadsp.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libfastcvadsp.so",
@@ -18574,7 +18574,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libfastcvdsp_skel",
+    name: "vendor_lib_rfsa_adsp_libfastcvdsp_skel_so",
     filename: "libfastcvdsp_skel.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libfastcvdsp_skel.so",
@@ -18583,7 +18583,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libhdr_skel",
+    name: "vendor_lib_rfsa_adsp_libhdr_skel_so",
     filename: "libhdr_skel.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libhdr_skel.so",
@@ -18592,7 +18592,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libmctfengine_skel",
+    name: "vendor_lib_rfsa_adsp_libmctfengine_skel_so",
     filename: "libmctfengine_skel.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libmctfengine_skel.so",
@@ -18601,7 +18601,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libmobilenet_dsp_frc",
+    name: "vendor_lib_rfsa_adsp_libmobilenet_dsp_frc_so",
     filename: "libmobilenet_dsp_frc.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libmobilenet_dsp_frc.so",
@@ -18610,7 +18610,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libmobilenet_dsp_frc_networks",
+    name: "vendor_lib_rfsa_adsp_libmobilenet_dsp_frc_networks_so",
     filename: "libmobilenet_dsp_frc_networks.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libmobilenet_dsp_frc_networks.so",
@@ -18619,7 +18619,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libscveObjectSegmentation_skel",
+    name: "vendor_lib_rfsa_adsp_libscveObjectSegmentation_skel_so",
     filename: "libscveObjectSegmentation_skel.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libscveObjectSegmentation_skel.so",
@@ -18628,7 +18628,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libscveT2T_skel",
+    name: "vendor_lib_rfsa_adsp_libscveT2T_skel_so",
     filename: "libscveT2T_skel.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libscveT2T_skel.so",
@@ -18637,7 +18637,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libvpt_action_recognition",
+    name: "vendor_lib_rfsa_adsp_libvpt_action_recognition_so",
     filename: "libvpt_action_recognition.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/libvpt_action_recognition.so",
@@ -18646,7 +18646,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libQnnHtpV73Skel",
+    name: "vendor_lib_rfsa_adsp_snap_libQnnHtpV73Skel_so",
     filename: "libQnnHtpV73Skel.so",
     owner: "samsung",
     src: "proprietary/vendor/lib/rfsa/adsp/snap/libQnnHtpV73Skel.so",
