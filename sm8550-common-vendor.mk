@@ -961,6 +961,7 @@ PRODUCT_PACKAGES += \
     system_dlkm_modprobe \
     tftp_server \
     thermal-engine-v2 \
+    time_client \
     time_daemon \
     trusteduilistener \
     vendor_modprobe \
