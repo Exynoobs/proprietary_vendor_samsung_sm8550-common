@@ -593,7 +593,7 @@ PRODUCT_PACKAGES += \
     libsdm-disp-vndapis \
     libsdmextension \
     libsdsprpc \
-    libsec-ril \
+    libsec-ril-impl \
     libsec2imageformatfilter \
     libsec_semRil \
     libsecaudiocoreutils \
